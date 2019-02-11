@@ -1,5 +1,5 @@
 package com.sanumala;
-public class Welcome
+public class good
 {   
       public static void main(String[] args)
       {       
